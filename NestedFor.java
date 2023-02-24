@@ -19,6 +19,14 @@ public class NestedFor {
                       System.out.print("*");
                   }
               System.out.print("\n");
+
+              /*Prints The Pattern Below (Customizable)
+                *
+                **
+                ***
+                ****
+                *****
+              */
           }
   }
 }
