@@ -1,3 +1,4 @@
 *Java Practice Codes*
 ====================
-Started With SwitchCase 
+- SwitchCase
+- Fibonacci Series
