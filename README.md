@@ -1,3 +1,3 @@
-*Java Practice Codes
+*Java Practice Codes*
 ====================
 Started With SwitchCase 
