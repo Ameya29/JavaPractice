@@ -11,5 +11,11 @@ public class Arrays {
           {
               System.out.println("Day "+i+": "+daysOfWeek[i]);
           }
+
+      int arr1[] = new int[15];   //Array Declaration
+      //      for(int i=0; i<=arr1.length-1; i++)
+      //          {
+      //              System.out.println(arr1[i]);
+      //          }
   }
 }
