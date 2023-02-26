@@ -21,5 +21,6 @@ public class Searching {
       System.out.print("\nEnds With: "+a.endsWith(b));   //Check If Ends With b
       System.out.print("\nIndex Of: "+a.indexOf(b));  //Get Index Of b In a (Optional Parameter: Starting Index)
       System.out.print("\nReverse Index Of: "+a.lastIndexOf(b));  //Reverse Index Search.
+      System.out.print("\nUnderstood");
   }
 }
